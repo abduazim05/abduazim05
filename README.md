@@ -25,8 +25,8 @@
 
 ### 🌱 Meni kuzatishda davom eting:
 - 🧠 Hozirda o‘rganayotganim: `Python OOP`, `Telegram bot`, `GitHub Actions`
-- 💬 Menga savol bering: "Python'da class nima degani?"
-- 📫 Aloqa: [Telegram](https://t.me/sizning_username) | [Email](mailto:siz@email.com)
+- 💬 Men bilan bog'lanish uchun pastdagi havoladan foydlanish mumkin.
+- 📫 Aloqa: [Telegram](https://t.me/Mister_Advocate) | [Email](mailto:abduazimabdusamatov4@gmail.com)
 
 ---
 
